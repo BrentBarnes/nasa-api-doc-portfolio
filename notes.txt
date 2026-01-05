@@ -1,0 +1,11 @@
+
+All three feature cards are customized:
+Feature 1:
+Title: "First Call in 2 Minutes"
+Description: "Copy-paste requests so you can hit APOD (Astronomy Picture of the Day) instantly."
+Feature 2:
+Title: "Snippets, Not Theory"
+Description: "Build real projects fast: APOD widget, 'NEOs this week,' EPIC image downloader, the sky's the limit."
+Feature 3:
+Title: "Built for Real-World Setbacks"
+Description: "Rate limits, outages, and alien responses explained clearly with fixes."
