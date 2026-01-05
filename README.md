@@ -25,7 +25,7 @@ This project demonstrates technical writing skills through comprehensive documen
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/BrentBarnes/nasa-api-doc-portoflio.git
 cd nasa-docs-portfolio
 ```
 
